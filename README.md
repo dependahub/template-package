@@ -3,4 +3,4 @@
 
 # template-package
 
-JavaScript と JSDoc を使ったパッケージ用テンプレートリポジトリ
+JavaScript と JSDoc を使ったパッケージ用テンプレート

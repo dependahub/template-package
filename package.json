@@ -1,7 +1,7 @@
 {
   "name": "template-package",
   "version": "1.0.0",
-  "description": "JavaScript と JSDoc を使ったパッケージ用テンプレートリポジトリ",
+  "description": "",
   "main": "src/index.js",
   "type": "module",
   "types": "@types/index.d.ts",
@@ -42,12 +42,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "keywords": [
-    "template",
-    "javascript",
-    "jsdoc",
-    "package"
-  ],
-  "author": "DependaHub",
-  "license": "MIT"
+  "keywords": [],
+  "author": "",
+  "license": ""
 }
