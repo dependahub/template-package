@@ -1,5 +1,5 @@
 .vscode
-.env
 .env.local
 **/*.spec.js
 **/*.test.js
+tsconfig.json
