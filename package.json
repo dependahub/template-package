@@ -20,14 +20,18 @@
     "typescript": "^5.9.3",
     "xo": "^2.0.2"
   },
-  "xo": {
-    "ignores": [
-      "@types"
-    ],
-    "rules": {
-      "capitalized-comments": "off"
+  "xo": [
+    {
+      "ignores": [
+        "**/@types/**"
+      ]
+    },
+    {
+      "rules": {
+        "capitalized-comments": "off"
+      }
     }
-  },
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dependahub/template-package.git"
