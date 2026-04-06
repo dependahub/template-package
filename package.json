@@ -16,22 +16,10 @@
     "prepublishOnly": "npm run format && npm run build"
   },
   "devDependencies": {
-    "@types/node": "^25.5.0",
-    "typescript": "^5.9.3",
+    "@types/node": "^25.5.2",
+    "typescript": "^6.0.2",
     "xo": "^2.0.2"
   },
-  "xo": [
-    {
-      "ignores": [
-        "**/@types/**"
-      ]
-    },
-    {
-      "rules": {
-        "capitalized-comments": "off"
-      }
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dependahub/template-package.git"

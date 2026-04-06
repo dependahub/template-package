@@ -8,7 +8,6 @@
   ],
   "compilerOptions": {
     "rootDir": "./src",
-    "baseUrl": "./src",
     "declarationDir": "./@types",
     "moduleResolution": "nodenext",
     "target": "ESNext",
